@@ -2,311 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bee1df6c-5c64-418f-a3d6-cb985dc463d5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/css/responsive.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/css/style.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/footer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/functions.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/header.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/banner/categories-banner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/banner/summer-banner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/blog/from-blog/f-blog-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/blog/from-blog/f-blog-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/blog/from-blog/f-blog-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/blog/from-blog/f-blog-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/blog/from-blog/f-blog-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/blog/from-blog/f-blog-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/fav-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/feature-add/f-add-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/feature-add/f-add-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/feature-add/f-add-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/feature-add/f-add-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/feature-add/f-add-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/feature-add/f-add-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/feature-add/f-add-7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/feature-add/f-add-8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/feature-add/f-add-9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/feature-add/special-offer-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/feature-add/special-offer-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/fullwidth-item/fullwidth-item-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/fullwidth-item/fullwidth-item-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/fullwidth-item/fullwidth-item-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/home-carousel/home-c-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/home-carousel/home-c-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/home-carousel/home-c-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/home-carousel/home-c-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/home-carousel/home-c-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/home-parallax/parallax-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/home-parallax/parallax-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/home-parallax/parallax-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/home-parallax/parallax-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/home-slider/2017-text.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/home-slider/full-width-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/home-slider/slider-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/home-slider/slider-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/icon/cart-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/icon/close-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/icon/flag-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/icon/world-icon-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/icon/world-icon-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/icon/world-icon-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/icon/world-icon-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/logo-white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/master-card.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/c-product-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/c-product-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/c-product-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/c-product-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/c-product-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/c-product-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/c-product-7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/c-product-8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/c-product-9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/cart-product/cart-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/cart-product/cart-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/cart-product/cart-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/cart-product/cart-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/compare/compare-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/compare/compare-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/featured-product/f-p-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/featured-product/f-p-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/featured-product/f-p-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/featured-product/f-p-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/featured-product/f-p-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/featured-product/f-p-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/fillter-product/f-product-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/fillter-product/f-product-10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/fillter-product/f-product-11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/fillter-product/f-product-12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/fillter-product/f-product-13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/fillter-product/f-product-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/fillter-product/f-product-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/fillter-product/f-product-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/fillter-product/f-product-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/fillter-product/f-product-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/fillter-product/f-product-7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/fillter-product/f-product-8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/fillter-product/f-product-9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/four-column/product-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/four-column/product-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/four-column/product-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/four-column/product-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/l-product-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/l-product-10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/l-product-11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/l-product-12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/l-product-13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/l-product-14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/l-product-15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/l-product-16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/l-product-17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/l-product-18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/l-product-19.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/l-product-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/l-product-20.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/l-product-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/l-product-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/l-product-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/l-product-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/l-product-7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/l-product-8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/l-product-9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/p-categories-list/product-l-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/p-categories-list/product-l-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/p-categories-list/product-l-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/product-details/p-details-big-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/product-details/p-details-tab-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/product-details/p-details-tab-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/product-details/p-details-tab-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/product-details/p-details-tab-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/related-product/r-product-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/related-product/r-product-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/related-product/r-product-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/related-product/r-product-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/related-product/r-product-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/related-product/r-product-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/related-product/r-product-7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/related-product/r-product-8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/sunglass-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/sunglass-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/sunglass-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/three-column/product-three-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/three-column/product-three-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/three-column/product-three-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/three-column/product-three-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/three-column/product-three-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/three-column/product-three-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/three-column/product-three-7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/three-column/product-three-8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/three-column/product-three-9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/two-column/product-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/two-column/product-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/two-column/product-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/product/two-column/product-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/img/supper-add-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/js/contact.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/js/full-page.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/js/gmaps.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/js/jquery-3.2.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/js/jquery.form.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/js/jquery.validate.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/js/popper.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/js/smoothscroll.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/js/theme.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/page.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/screenshot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/single.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/bootstrap-selector/css/bootstrap-select.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/bootstrap-selector/js/bootstrap-select.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/counterup/apear.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/counterup/countto.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/counterup/jquery.counterup.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/counterup/jquery.waypoints.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/elegant-icon/fonts/ElegantIcons.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/elegant-icon/fonts/ElegantIcons.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/elegant-icon/fonts/ElegantIcons.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/elegant-icon/fonts/ElegantIcons.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/elegant-icon/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/full-page/jquery.fullpage.extensions.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/full-page/jquery.fullpage.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/full-page/jquery.fullpage.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/image-dropdown/dd.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/image-dropdown/flags.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/image-dropdown/jquery.dd.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/image-dropdown/skin2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/isotope/imagesloaded.pkgd.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/isotope/isotope.pkgd.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/jquery-ui/jquery-ui.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/jquery-ui/jquery-ui.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/line-icon/css/simple-line-icons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/line-icon/fonts/Simple-Line-Icons.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/line-icon/fonts/Simple-Line-Icons.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/line-icon/fonts/Simple-Line-Icons.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/line-icon/fonts/Simple-Line-Icons.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/line-icon/fonts/Simple-Line-Icons.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/magnify-popup/jquery.magnific-popup.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/magnify-popup/magnific-popup.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/owl-carousel/owl.carousel.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/owl-carousel/owl.carousel.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/assets/coloredbg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/assets/gridtile.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/assets/gridtile_3x3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/assets/gridtile_3x3_white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/assets/gridtile_white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/assets/loader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/assets/sources/fb.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/assets/sources/fr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/assets/sources/ig.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/assets/sources/post.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/assets/sources/revolution_slide1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/assets/sources/revolution_slide2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/assets/sources/tw.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/assets/sources/vm.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/assets/sources/wc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/assets/sources/yt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/assets/svg/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/assets/svg/svg.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/css/closedhand.cur" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/css/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/css/layers.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/css/navigation-skins/ares.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/css/navigation-skins/custom.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/css/navigation-skins/dione.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/css/navigation-skins/erinyen.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/css/navigation-skins/gyges.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/css/navigation-skins/hades.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/css/navigation-skins/hebe.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/css/navigation-skins/hephaistos.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/css/navigation-skins/hermes.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/css/navigation-skins/hesperiden.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/css/navigation-skins/metis.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/css/navigation-skins/persephone.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/css/navigation-skins/uranus.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/css/navigation-skins/zeus.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/css/navigation.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/css/openhand.cur" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/css/settings-ver.5.3.1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/css/settings.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/fonts/font-awesome/css/font-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/fonts/font-awesome/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/fonts/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/fonts/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/fonts/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/fonts/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/fonts/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/fonts/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/fonts/font-awesome/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/fonts/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/fonts/pe-icon-7-stroke/css/helper.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/fonts/pe-icon-7-stroke/css/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/fonts/pe-icon-7-stroke/css/pe-icon-7-stroke.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/fonts/pe-icon-7-stroke/fonts/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/fonts/pe-icon-7-stroke/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/fonts/revicons/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/fonts/revicons/revicons.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/fonts/revicons/revicons.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/fonts/revicons/revicons.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/fonts/revicons/revicons.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/info.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/js/extensions/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/js/extensions/revolution.extension.actions.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/js/extensions/revolution.extension.carousel.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/js/extensions/revolution.extension.kenburn.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/js/extensions/revolution.extension.layeranimation.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/js/extensions/revolution.extension.migration.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/js/extensions/revolution.extension.navigation.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/js/extensions/revolution.extension.parallax.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/js/extensions/revolution.extension.slideanims.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/js/extensions/revolution.extension.video.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/js/extensions/source/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/js/extensions/source/revolution.extension.actions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/js/extensions/source/revolution.extension.carousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/js/extensions/source/revolution.extension.kenburn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/js/extensions/source/revolution.extension.layeranimation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/js/extensions/source/revolution.extension.migration.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/js/extensions/source/revolution.extension.navigation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/js/extensions/source/revolution.extension.parallax.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/js/extensions/source/revolution.extension.slideanims.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/js/extensions/source/revolution.extension.video.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/js/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/js/jquery.themepunch.enablelog.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/js/jquery.themepunch.revolution.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/js/jquery.themepunch.tools.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/js/source/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/js/source/jquery.themepunch.enablelog.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/js/source/jquery.themepunch.revolution.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/js/source/jquery.themepunch.tools.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/php/facebook/class-facebook.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/php/flickr/class-flickr.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/php/instagram/class-instagram.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/php/twitter/RestApi.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/php/twitter/class-twitter.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/php/twitter/connection/Application.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/php/twitter/connection/ConnectionAbstract.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/php/twitter/connection/User.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/php/vimeo/class-vimeo.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/revolution/php/youtube/class-youtube.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/vertical-slider/css/jQuery.verticalCarousel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/vertical-slider/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/persuit/vendors/vertical-slider/js/jQuery.verticalCarousel.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -337,7 +32,7 @@
         <entry file="file://$PROJECT_DIR$/public/themes/persuit/functions.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="104">
-              <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+              <caret line="50" selection-start-line="50" selection-end-line="50" />
               <folding>
                 <element signature="n#setup_features#0;n#!!top" />
               </folding>
@@ -349,7 +44,7 @@
         <entry file="file://$PROJECT_DIR$/public/themes/persuit/header.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="286">
-              <caret line="25" column="26" lean-forward="true" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+              <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
               <folding>
                 <element signature="n#style#0;n#select#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -370,8 +65,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/themes/persuit/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="84" column="14" lean-forward="true" selection-start-line="84" selection-start-column="14" selection-end-line="84" selection-end-column="14" />
+            <state relative-caret-position="260">
+              <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -386,10 +81,10 @@
       <list>
         <option value="$PROJECT_DIR$/.env" />
         <option value="$PROJECT_DIR$/public/themes/persuit/style.css" />
-        <option value="$PROJECT_DIR$/public/themes/persuit/footer.php" />
         <option value="$PROJECT_DIR$/public/themes/persuit/functions.php" />
         <option value="$PROJECT_DIR$/public/themes/persuit/index.php" />
         <option value="$PROJECT_DIR$/public/themes/persuit/header.php" />
+        <option value="$PROJECT_DIR$/public/themes/persuit/footer.php" />
       </list>
     </option>
   </component>
@@ -503,12 +198,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549291190022</updated>
-      <workItem from="1549291192362" duration="9693000" />
+      <workItem from="1549291192362" duration="10602000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9693000" />
+    <option name="totallyTimeSpent" value="10602000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="768" extended-state="6" />
@@ -603,7 +298,7 @@
     <entry file="file://$PROJECT_DIR$/public/themes/persuit/functions.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
-          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
           <folding>
             <element signature="n#setup_features#0;n#!!top" />
           </folding>
@@ -623,7 +318,7 @@
     <entry file="file://$PROJECT_DIR$/public/themes/persuit/header.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
-          <caret line="25" column="26" lean-forward="true" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+          <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
           <folding>
             <element signature="n#style#0;n#select#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
@@ -632,8 +327,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/themes/persuit/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="84" column="14" lean-forward="true" selection-start-line="84" selection-start-column="14" selection-end-line="84" selection-end-column="14" />
+        <state relative-caret-position="260">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
         </state>
       </provider>
     </entry>
